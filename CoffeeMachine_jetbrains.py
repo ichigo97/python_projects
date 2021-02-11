@@ -1,4 +1,3 @@
-# Write your code here
 
 class coffee_machine():
     def __init__(self):
